@@ -6,7 +6,7 @@
 }
 header{
     background: rgba(255, 144, 14, 0.10);
-    /* padding: 50px 80px; */
+    padding: 50px 80px;
     
 }
 nav{
@@ -61,6 +61,7 @@ nav li a{
 .banner img{
     max-width: 100%;
     border-radius: 8px;
+    
 }
 
 
@@ -75,7 +76,7 @@ nav li a{
     }
     nav{
 flex-direction: column;
-padding: 20px;
+padding: 50px;
     }
 
 }
